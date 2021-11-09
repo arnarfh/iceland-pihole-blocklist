@@ -20,3 +20,12 @@ ws.sharethis.com
 heartbeat.airserve.net
 cdn.segment.com
 siteimproveanalytics.com
+
+# Political
+xd.is
+flokkurfolksins.is
+framsokn.is
+midflokkurinn.is
+
+# Propaganda
+frettin.is
