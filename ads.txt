@@ -5,3 +5,18 @@
 #
 # Ad list
 #------------------------------------[FILTERS]-------------------------------------
+log.gallup.is
+veriate.com
+secure.teljari.is
+teljari.mbl.is
+chartbeat.com
+cdn.adnuntius.com
+cl.k5a.io #gallup
+static.hotjar.com
+pp.ip4.io
+sb.scorecardresearch.com
+heartbeat.airserve.net
+ws.sharethis.com
+heartbeat.airserve.net
+cdn.segment.com
+siteimproveanalytics.com
