@@ -1,1 +1,19 @@
-
+#------------------------------------[UPDATE]--------------------------------------
+# Title: Iceland Trackers Blocklist
+# Expires: 1 day
+#-------------------------------------[INFO]---------------------------------------
+#
+# Tracker list
+#------------------------------------[FILTERS]-------------------------------------
+log.gallup.is
+secure.teljari.is
+teljari.mbl.is
+chartbeat.com
+cl.k5a.io #gallup
+static.hotjar.com
+pp.ip4.io
+scorecardresearch.com
+#sb.scorecardresearch.com
+cdn.segment.com
+siteimproveanalytics.com
+veriate.com
