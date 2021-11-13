@@ -1,1 +1,16 @@
 
+#------------------------------------[UPDATE]--------------------------------------
+# Title: Iceland Politics Blocklist
+# Expires: 1 day
+#-------------------------------------[INFO]---------------------------------------
+#
+# Sites list
+#------------------------------------[FILTERS]-------------------------------------
+# Political
+xd.is
+flokkurfolksins.is
+framsokn.is
+midflokkurinn.is
+
+# Propaganda
+frettin.is
