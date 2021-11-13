@@ -14,7 +14,8 @@ cdn.adnuntius.com
 cl.k5a.io #gallup
 static.hotjar.com
 pp.ip4.io
-sb.scorecardresearch.com
+scorecardresearch.com
+#sb.scorecardresearch.com
 heartbeat.airserve.net
 ws.sharethis.com
 heartbeat.airserve.net
