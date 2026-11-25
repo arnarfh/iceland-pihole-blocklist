@@ -8,3 +8,5 @@
 cdn.adnuntius.com
 heartbeat.airserve.net
 ws.sharethis.com
+# Pulsmedia smart banners (seen on mbl.is, vf.is, frettatiminn.is)
+app.pulsmedia.is
